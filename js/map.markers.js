@@ -12,14 +12,14 @@ var map_markers = [
 		"latitude":20.2961,
 		"longitude":85.8245,
 		"icon":"fa-bed", //Check the full list of icons at http://fortawesome.github.io/Font-Awesome/icons/
-		"infoWindow":"Accommodation 1 <br> Rossmoor, CA 90720"
+		"infoWindow":"Bhubaneswar <br> Odisha, IN 752001"
 	},
 	{
 		"title": "Transportation",
 		"latitude":20.2511,
 		"longitude":85.8153,
 		"icon":"fa-plane", //Check the full list of icons at http://fortawesome.github.io/Font-Awesome/icons/
-		"infoWindow":"Seal Beach VORTAC SLI <br> Los Alamitos, CA 90720"
+		"infoWindow":"Bhubaneswar <br> Odisha, IN 752001"
 	},
 	{
 		"title": "Ceremony",
